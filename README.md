@@ -1,16 +1,17 @@
-## About
+## Who Is A Workaholic?
 Pomodoro Timer is a simple application that for using Pomodoro Technique.
 
 ## Installation
 $ git clone git@github.com:hattori6789/Pomodoro.git ~/Desktop/Pomodoro
 
 ## Usage
-$ ruby ~/Desktop/Pomodoro/timer.rb
+$ ruby ~/Desktop/Pomodoro/start.rb  
+The computer will sleep if you are over time limit.
 
 ## See export log
 $ cat ~/Desktop/Pomodoro/pomodoroLog.txt
 
 ## Get easier (example)
-$ alias pomodoro='ruby ~/Desktop/Pomodoro/timer.rb'
-$ source ~/.bashrc
-$ pomodoro
+$ alias pomodoro='ruby ~/Desktop/Pomodoro/start.rb'  
+$ source ~/.bashrc  
+$ pomodoro  
