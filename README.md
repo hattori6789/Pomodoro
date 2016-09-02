@@ -1,6 +1,6 @@
 ## Who Is A Workaholic?
+Pomodoro Timer is a simple application for using Pomodoro Technique.  
 [WHAT IS THE POMODORO TECHNIQUE?](http://pomodorotechnique.com)  
-Pomodoro Timer is a simple application for using Pomodoro Technique.
 
 ## Installation
     $ git clone git@github.com:hattori6789/Pomodoro.git ~/Desktop/Pomodoro
