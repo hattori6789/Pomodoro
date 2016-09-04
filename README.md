@@ -4,7 +4,9 @@ Pomodoro Timer is a simple application for using Pomodoro Technique.
 
 ## Installation
     $ git clone git@github.com:hattori6789/Pomodoro.git ~/Desktop/Pomodoro
-
+or
+Download ZIP. Then,  
+    $ mv ~/Desktop/Pomodoro-master ~/Desktop/Pomodoro  
 ## Usage
     $ ruby ~/Desktop/Pomodoro/start.rb  
 The computer will sleep if you are over time limit.
